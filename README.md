@@ -7,7 +7,6 @@
   * JAVA
   * JAVA install Tutorial: [https://www.youtube.com/watch?v=VMsTI_CC-jc
   * Any Text Editor
-](https://www.youtube.com/watch?v=DTZAz9rj0kU)
 ### Features
 
 1. Admin Login
